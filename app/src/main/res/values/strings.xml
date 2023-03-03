@@ -1,0 +1,13 @@
+<resources>
+<!--    <string name="app_name">EMI Calculator 2</string>-->
+    <string name="loan_term_prompt">Select Loan Term</string>
+    <string name="app_name" />
+    <string-array name="loan_terms">
+        <item>1 year</item>
+        <item>2 years</item>
+        <item>3 years</item>
+        <item>4 years</item>
+        <item>5 years</item>
+    </string-array>
+
+</resources>
